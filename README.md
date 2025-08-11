@@ -31,7 +31,10 @@ Here you'll find my journey as a software enthusiast exploring cloud computing a
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [AWS Ultimate DevOps Project Demo](https://github.com/abhishekveeramalla/ultimate-devops-project-demo) | My favorite, hands-on DevOps project following best practices and real-world AWS deployment. | AWS, Docker, Jenkins, Kubernetes, Terraform, Ansible, CI/CD |
+| [Ultimate DevOps Project AWS (My Fork)](https://github.com/Ramthota2324/ultimate-devops-project-aws) <br> <sub>*(Forked from [iam-veeramalla/ultimate-devops-project-aws](https://github.com/iam-veeramalla/ultimate-devops-project-aws))*</sub> | Hands-on DevOps project for AWS, following best practices and real-world deployment scenarios. Used for my personal learning. | AWS, Docker, Jenkins, Kubernetes, Terraform, Ansible, CI/CD |
+
+**🔗 Want to learn DevOps on AWS?**  
+Check out the original and most popular demo project by [Abhishek Veeramalla (iam-veeramalla)](https://github.com/iam-veeramalla/ultimate-devops-project-aws).
 
 ---
 
