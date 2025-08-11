@@ -38,7 +38,7 @@ Here you'll find my journey as a software enthusiast exploring cloud computing a
 ## 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ramdas-rao-thota-654539284)
-- [![Email](https://img.shields.io/badge/Email-ramthota09@gmail.com-red?logo=gmail)](mailto:ramthota09@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-ramthota09@gmail.com-red?logo=gmail)](mailto:ramdas4987@gmail.com)
 
 ---
 
